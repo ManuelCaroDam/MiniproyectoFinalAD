@@ -1,4 +1,4 @@
 package com.minproyecto.miniproyectoFinal.errores.modelo;
 
-public class ApiSubError {
+public abstract class ApiSubError {
 }
