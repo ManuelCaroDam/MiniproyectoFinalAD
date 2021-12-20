@@ -32,4 +32,4 @@ public class POIService {
     public POI save (POI poi) {
         return repositorio.save(poi);
     }
-    }
+}
